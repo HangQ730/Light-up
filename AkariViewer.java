@@ -1,12 +1,5 @@
 /**
  * AkariViewer represents an interface for a player of Akari.
- *
- * @author Lyndon While
- * @version 2021
- * 
- * Group Members: Hang Qi       22449507
- *                Kate Gilbert  22968719
- * 
  */
 import java.awt.*;
 import java.awt.event.*; 
