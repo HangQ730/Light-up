@@ -5,7 +5,7 @@ Professor: Lyndon While
 
 Developed using Bluej  
 
-<img src="miscellaneous\image-20210728100044928.png" alt="image-20210728100044928" style="zoom: 25%;" /><img src="miscellaneous\image-20210728100349952.png" alt="image-20210728100349952" style="zoom:25%;" />
+<img src="miscellaneous\image-20210728100044928.png" alt="image-20210728100044928" width=300 /><img src="miscellaneous\image-20210728100349952.png" alt="image-20210728100349952" width=300 />
 
 
 
@@ -27,7 +27,7 @@ A puzzle file always has seven lines. The layout of all files is as follows.
 - The third line holds the locations of 0-numbered black squares on the board, denoted the same way.  
 - The fourth line holds the locations of 1-numbered black squares on the board, and so on for the remaining lines.  
 
-<img src="miscellaneous\image-20210728101601134.png" alt="image-20210728101601134" style="zoom:25%;" />
+<img src="miscellaneous\image-20210728101601134.png" alt="image-20210728101601134" width=300 />
 
 
 
